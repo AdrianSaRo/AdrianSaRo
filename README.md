@@ -1,4 +1,4 @@
-- 👨🏻‍💻 Hi, I’m Full Stack developer. Passionate about JavaScript, Vue, Angular and Node.js
+- 👨🏻‍💻 Hi, I’m Full Stack developer. Passionate about JavaScript, Vue, Angular, React and Node.js
 - 👀 I’m interested in everything related to software quality and good practices
 - 🌱 I’m always trying to learn by myself or from those who know more than me on any subject
 - 💞️ I’m looking to collaborate in open source projects and be an active profile in the community
